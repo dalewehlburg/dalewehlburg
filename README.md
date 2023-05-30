@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dale</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dalewehlburg&label=Visitors&color=000000&style=flat" alt="dalewehlburg" /> </p>
-<h3 align="center">A Mechanical Engineer / Software Developer / Full-Time Nerd working at a Dental Lab. A lot of what I do revolves around Python and rapid UI development with Textual, but I'm always looking to branch out and play with new things.</h3>
+<h3 align="center">A Mechanical Engineer / Nerd working at a Dental Lab. A lot of what I do revolves around Python and rapid UI development with Textual, but I'm always looking to branch out and play with new things.</h3>
 
 
 - 🔭 I’m currently working on **writing custom tools for 3D printer management & Dental Lab-ing**

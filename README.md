@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dale</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dalewehlburg&label=Visitors&color=000000&style=flat" alt="dalewehlburg" /> </p>
 <h3 align="center">A Mechanical Engineer / Software Developer / Full-Time Nerd working at a Dental Lab. A lot of what I do revolves around Python and rapid UI development with Textual, but I'm always looking to branch out and play with new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dalewehlburg&label=Visitors&color=000000&style=flat" alt="dalewehlburg" /> </p>
 
 - 🔭 I’m currently working on **writing custom tools for 3D printer management & Dental Lab-ing**
 
+- 🤝 I’m looking for help with **my Textual and Python projects**
+
 - 🌱 I’m currently learning **Rust, API / microsystem design, how to not write spaghetti code (ongoing)**
 
-- 👯 I’m looking to work on **something that makes me go "whaaaaaaaat?"**
-
-- 🤝 I’m looking for help with **my Textual and Python projects**
+- 👯 I’m looking to work on **something that makes me really scratch my head**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

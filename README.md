@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **writing custom tools for 3D printer management & Dental Lab-ing**
 
-- 🤝 I’m looking for help with **my Textual and Python projects, and setting up VSCode + NeoVim**
+- 🤝 I’m looking for help with **my Textual and Python projects, and setting up my Neovim config**
 
 - 🌱 I’m currently learning **Rust, API / microsystem design, how to not write spaghetti code (ongoing)**
 

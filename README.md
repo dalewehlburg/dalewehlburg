@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dale</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dalewehlburg&label=Visitors&color=000000&style=flat" alt="dalewehlburg" /> </p>
-<h3 align="center">A Mechanical Engineer / Nerd working at a Dental Lab. A lot of what I do revolves around Python, Rust, and Svelte(Kit), but I'm always looking to branch out and play with new things.</h3>
+<h3 align="center">A Mechanical Engineer working at a Dental Lab. A lot of what I do revolves around Python, Rust, and Svelte(Kit), but I'm always looking to branch out and play with new things.</h3>
 
 
-- 🔭 I’m currently working on **writing custom tools for 3D printer management & Dental Lab-ing**
+- 🔭 I’m currently working on **writing custom tools, servers, and dashboards for 3D printer management & Dental Lab-ing**
 
-- 🤝 I’m looking for help with **my Textual and Python projects, and setting up my Neovim config**
+- 🤝 I’m looking for help with **writing better tools, producing more effectively through tooling, and designing simpler experiences**
 
-- 🌱 I’m currently learning **Rust, API / microsystem design, how to not write spaghetti code (ongoing)**
+- 🌱 I’m currently learning **Rust, API / microsystem design, and Typst**
 
 - 👯 I’m looking to work on **something that makes me really scratch my head**
 
